@@ -22,8 +22,7 @@
 
 ---
 
-### 📈 **GitHub Stats**
-![Pratham's GitHub stats](https://github-readme-stats.vercel.app/api?username=Prax69&show_icons=true&theme=radical)
+
 
 ---
 
