@@ -7,10 +7,10 @@
 ---
 
 ### 🛠️ **Technical Skills**
-- **Programming Languages**: C++, Python, HTML, CSS, JavaScript  
+- **Programming Languages**: C++, Python, Java, HTML, CSS, JavaScript  
 - **Frameworks & Tools**:  
-  - Node.js, Express.js, React.js  
-  - MongoDB (Atlas & Compass)  
+  - Node.js, Express.js, React.js,  Spring,  Spring Boot
+  - MongoDB (Atlas & Compass),  MySQL  
   - Tailwind CSS, Vite.js  
   - VS Code, Postman, Jupyter Notebook, Vivado  
 
